@@ -1,5 +1,4 @@
 # my-ptoject
-<!DOCTYPE html>
 <html lang="kk">
 <head>
     <meta charset="UTF-8">
@@ -49,9 +48,6 @@
     <h1>Жексен Толғанайдың Wix сайты</h1>
     <p>Қош келдіңіздер</p>
     <div class="buttons">
-        <a href="https://example.com" class="button" target="_blank">Сайт 1</a>
-        <a href="https://another-site.com" class="button" target="_blank">Сайт 2</a>
         <a href="https://tolganai1207.wixsite.com/tolganai1"_blank">Wix сайты</a>
     </div>
 </body>
-</html>
