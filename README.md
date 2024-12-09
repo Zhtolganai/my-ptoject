@@ -48,6 +48,6 @@
     <h1>Жексен Толғанайдың Wix сайты</h1>
     <p>Қош келдіңіздер</p>
     <div class="buttons">
-        <a href="https://tolganai1207.wixsite.com/tolganai1"_blank">Wix сайты</a>
+        <a href="https://tolganai1207.wixsite.com/tolganai1" class="button" target="_blank">Сайт 2</a>
     </div>
 </body>
